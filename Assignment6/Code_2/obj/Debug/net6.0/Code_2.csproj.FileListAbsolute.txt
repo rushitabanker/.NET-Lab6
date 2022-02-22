@@ -1,0 +1,15 @@
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\Code_2.exe
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\Code_2.deps.json
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\Code_2.runtimeconfig.json
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\Code_2.dll
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\ref\Code_2.dll
+D:\MSU\Assignment6\Code_2\bin\Debug\net6.0\Code_2.pdb
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.csproj.AssemblyReference.cache
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.AssemblyInfoInputs.cache
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.AssemblyInfo.cs
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.csproj.CoreCompileInputs.cache
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.dll
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\ref\Code_2.dll
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.pdb
+D:\MSU\Assignment6\Code_2\obj\Debug\net6.0\Code_2.genruntimeconfig.cache
